@@ -5,7 +5,9 @@ public class Main {
         System.out.println("Hello world!");
         /*
         1. Template Method
+        // 상위 클래스에서 처리의 뼈대를 결정하고 하위 클래스에서 구체적으로 그 내용을 결정
         2. Factory Method
+        //
         3. Abstract Factory
         4. Builder
         5. Strategy
