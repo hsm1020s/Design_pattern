@@ -7,8 +7,9 @@ public class Main {
         1. Template Method
         // 상위 클래스에서 처리의 뼈대를 결정하고 하위 클래스에서 구체적으로 그 내용을 결정
         2. Factory Method
-        //
+        // 하위 클래스에서 인스턴스를 만든다.
         3. Abstract Factory
+        // 관련 부품을 조합하여 제품을 만든다.
         4. Builder
         5. Strategy
         6. Composite
