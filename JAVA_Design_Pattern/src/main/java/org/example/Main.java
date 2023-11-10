@@ -11,6 +11,7 @@ public class Main {
         3. Abstract Factory
         // 관련 부품을 조합하여 제품을 만든다.
         4. Builder
+        // 복잡한 인스턴스를 조립한다.
         5. Strategy
         6. Composite
         7. Iterator
