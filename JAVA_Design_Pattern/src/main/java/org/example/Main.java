@@ -12,7 +12,8 @@ public class Main {
         // 관련 부품을 조합하여 제품을 만든다.
         4. Builder
         // 복잡한 인스턴스를 조립한다.
-        5. Strategy
+        5. Strategy (전략패턴)
+        // 알고리즘을 모두 바꾼다.
         6. Composite
         7. Iterator
         8. Visitor
