@@ -15,6 +15,7 @@ public class Main {
         5. Strategy (전략패턴)
         // 알고리즘을 모두 바꾼다.
         6. Composite
+        // 그릇과 내용물을 동일시한다.
         7. Iterator
         8. Visitor
         9. Interpreter
