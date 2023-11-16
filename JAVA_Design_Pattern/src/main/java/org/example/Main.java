@@ -17,6 +17,7 @@ public class Main {
         6. Composite
         // 그릇과 내용물을 동일시한다.
         7. Iterator
+        //
         8. Visitor
         9. Interpreter
         10. Flyweight
