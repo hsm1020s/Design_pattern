@@ -17,9 +17,11 @@ public class Main {
         6. Composite
         // 그릇과 내용물을 동일시한다.
         7. Iterator
-        //
+        // 처리를 반복한다.
         8. Visitor
+        // 데이터 구조를 돌아다니면서 처리한다.
         9. Interpreter
+        // 문법 규칙을 클래스로 표현한다.
         10. Flyweight
         11. Prototype
         12. Command
