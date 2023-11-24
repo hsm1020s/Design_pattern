@@ -23,6 +23,7 @@ public class Main {
         9. Interpreter
         // 문법 규칙을 클래스로 표현한다.
         10. Flyweight
+        // 같은 것은 공유해서 낭비를 없앤다.
         11. Prototype
         12. Command
         13. Memento
