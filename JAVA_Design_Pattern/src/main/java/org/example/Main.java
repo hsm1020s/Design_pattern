@@ -1,5 +1,7 @@
 package org.example;
 
+import java.util.LinkedList;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
@@ -25,6 +27,7 @@ public class Main {
         10. Flyweight
         // 같은 것은 공유해서 낭비를 없앤다.
         11. Prototype
+        // 복사해서 인스턴스를 만든다.
         12. Command
         13. Memento
         14. Chain of Responsibility
