@@ -29,6 +29,7 @@ public class Main {
         11. Prototype
         // 복사해서 인스턴스를 만든다.
         12. Command
+        // 명령을 클래스로 표현한다.
         13. Memento
         14. Chain of Responsibility
         15. Singleton
