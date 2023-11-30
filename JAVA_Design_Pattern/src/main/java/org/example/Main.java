@@ -31,6 +31,7 @@ public class Main {
         12. Command
         // 명령을 클래스로 표현한다.
         13. Memento
+        // 상태를 저장한다.
         14. Chain of Responsibility
         15. Singleton
         16. State
