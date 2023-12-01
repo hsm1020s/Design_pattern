@@ -33,6 +33,7 @@ public class Main {
         13. Memento
         // 상태를 저장한다.
         14. Chain of Responsibility
+        // 책임을 떠넘긴다.
         15. Singleton
         16. State
         17. Facade
