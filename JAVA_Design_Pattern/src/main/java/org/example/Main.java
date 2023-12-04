@@ -35,6 +35,7 @@ public class Main {
         14. Chain of Responsibility
         // 책임을 떠넘긴다.
         15. Singleton
+        // 인스턴스를 단 하나만 만든다.
         16. State
         17. Facade
         18. Mediator
