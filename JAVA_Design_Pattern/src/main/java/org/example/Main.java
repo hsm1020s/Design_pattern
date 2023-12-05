@@ -37,6 +37,7 @@ public class Main {
         15. Singleton
         // 인스턴스를 단 하나만 만든다.
         16. State
+        // 상태를 클래스로 표현한다.
         17. Facade
         18. Mediator
         19. Observer
