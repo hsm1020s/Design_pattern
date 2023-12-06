@@ -39,6 +39,7 @@ public class Main {
         16. State
         // 상태를 클래스로 표현한다.
         17. Facade
+        // 단순한 창구를 만들다.
         18. Mediator
         19. Observer
         20. Bridge
