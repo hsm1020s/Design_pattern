@@ -41,6 +41,7 @@ public class Main {
         17. Facade
         // 단순한 창구를 만들다.
         18. Mediator
+        // 중재자를 통해 처리한다.
         19. Observer
         20. Bridge
         21. Adapter
