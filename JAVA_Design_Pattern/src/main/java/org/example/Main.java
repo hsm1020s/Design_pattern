@@ -43,6 +43,7 @@ public class Main {
         18. Mediator
         // 중재자를 통해 처리한다.
         19. Observer
+        //  상태 변화를 알려준다.
         20. Bridge
         21. Adapter
         22. Decorator
