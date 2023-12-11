@@ -45,6 +45,7 @@ public class Main {
         19. Observer
         //  상태 변화를 알려준다.
         20. Bridge
+        // 기능 계층과 구현 계층을 나눈다.
         21. Adapter
         22. Decorator
         23. Proxy
