@@ -2,6 +2,9 @@ package Adapter;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello");
+        Print p = new PrintBanner("Hello");
+        p.printWeak();
+        p.printStrong();
     }
 }
+

@@ -47,8 +47,11 @@ public class Main {
         20. Bridge
         // 기능 계층과 구현 계층을 나눈다.
         21. Adapter
+        // 사이에 끼워 재사용한다.
         22. Decorator
+        // 장식틀과 내용물을 동일시한다.
         23. Proxy
+        // 필요해지면 만든다!. 책 21장 
 
          */
 
